@@ -1,5 +1,11 @@
-## Welcome to GitHub Pages
-
+## Carmelo DiTomasso's First CS193 Homework
+- It's once a week
+- It's taught by students
+- It's short
+- It's useful
+- It's easy
+- It's fun
+- It's useful
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
